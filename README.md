@@ -9,7 +9,7 @@ Enlighten Me is an AI-powered teaching prompt framework that transforms any docu
 
 It turns passive reading into guided understanding.
 
-<a href="https://raw.github.com/akila-UCD/Enlighten_Me/blob/main/MAIN_PROMPT.txt">LINK FOR THE PROMPT</a>
+<a href="https://raw.github.com/akila-UCD/Enlighten_Me/main/MAIN_PROMPT.txt">LINK FOR THE PROMPT</a>
 ---
 
 ## 🚀 What It Does
