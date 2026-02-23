@@ -1,78 +1,33 @@
 # 🌟 Enlighten_Me
 
-Enlighten_Me is an advanced AI-powered teaching prompt framework that transforms any document, lecture note, concept, or research paper into a structured, interactive, memory-optimised learning experience.
+Created by **Akila Wickramasekara** 
+🔗 GitHub: https://github.com/akila-UCD 
+🔗 LinkedIn: https://www.linkedin.com/in/akila-wickramasekara-a976a918/
 
-It converts passive reading into guided, step-by-step mastery using AI.
 
----
+Enlighten_Me is an AI-powered teaching prompt framework that transforms any document, lecture note, concept, or research paper into a structured, interactive, memory-optimised learning module.
 
-## 📘 What It Does
-
-Enlighten_Me transforms:
-
-- Lecture notes  
-- Book chapters  
-- Research papers  
-- Technical topics  
-- Complex theories  
-
-into a fully interactive HTML learning module designed for:
-
-- Deep understanding  
-- Long-term memory retention  
-- Critical thinking  
-- Practical application  
+It turns passive reading into guided understanding.
 
 ---
 
-## 🚀 Key Features
+## 🚀 What It Does
 
-### 🧠 Memory-Optimised Teaching
-- Acronyms and abbreviations (e.g., S.T.A.R, F.A.I.T.H)
-- First-letter encoding
-- Mnemonic phrases
-- Highlighted “Most Important Ideas”
-- Common mistake explanations
-
-### 📊 Research-Aware Mode
-If the input is a research paper, the system automatically includes:
-- Problem statement
-- Research gap
-- Simplified methodology
-- Key contributions
-- Results and implications
-- Strengths and limitations
-- Practical applications
-- Critical thinking prompts
-
-### 🌐 Interactive HTML Output
-Generates a downloadable file:
+Generates a downloadable:
 
 learning_module.html
 
 Features:
-- Embedded CSS & JavaScript
-- No external dependencies
-- Step-by-step navigation
-- Progress indicator
-- Previous / Next buttons
-- MCQ assessment with auto-scoring
-- Mobile responsive design
 
-### 🎥 Safe Video Support
-Instead of direct YouTube links, it generates Google search links like:
-
-https://www.google.com/search?q=Perceptual+Hashing+Explained+youtube
-
-Displayed as:
-🔎 Watch Video Explanation (opens in new tab)
-
-### 🌍 Bilingual Support
-Built-in toggle:
-- English
-- Sinhala (සිංහල)
-
-Dynamic language switching using JavaScript.
+- Step-by-step explanations 
+- Research-aware breakdown (for research papers) 
+- Acronyms & mnemonic memory aids 
+- Practical examples & analogies 
+- Visual guidance suggestions 
+- Sinhala ↔ English language toggle 
+- Google-based YouTube search buttons
+- Final MCQ assessment with auto scoring 
+- Fully self-contained (no external libraries)
 
 ---
 
@@ -82,65 +37,47 @@ Dynamic language switching using JavaScript.
 
 1. Copy the Enlighten_Me master prompt.
 2. Paste it into your AI tool.
-3. Upload your PDF / document together with the prompt.
+3. Upload your PDF / document.
 4. Run the model.
 
 ✅ Best tested with:
-- Gemini Pro
-- ChatGPT 5.2
+- Gemini Pro 
+- ChatGPT 5.2 
 
 ---
 
-### 2️⃣ If Gemini Does Not Generate a File
-
-Sometimes Gemini outputs the HTML code instead of a downloadable file.
-
-In that case:
+### 2️⃣ If Gemini Returns Code Instead of a File
 
 1. Copy the generated HTML code.
-2. Open a text editor.
-3. Save the file as:
+2. Save it as:
 
 learning_module.html
 
-4. Open it in your browser.
+3. Open it in your browser.
 
 ---
 
 ### 3️⃣ Generation Time
 
-It may take some time to generate the file.
+File generation time depends on:
+- Document length 
+- Topic complexity 
+- Research depth 
 
-Generation time depends on:
-- Document length
-- Topic complexity
-- Whether it is a research paper
-
-Please be patient while the model processes your material.
+Please wait while the model processes your content.
 
 ---
 
-## ⚙ Customising the Prompt
+## ⚙ Customisation
 
-You can modify variables inside the prompt.
+You can change prompt variables like:
 
-For example:
-
-Time available: 15 minutes
-
-You can change it to:
-
-Time available: 45 minutes
+Time available: 15 minutes 
 
 This affects:
-- Depth of explanation
-- Number of sections
-- Number of MCQs generated
-
-You can also adjust:
-- Background level
-- Learning goals
-- Teaching depth
+- Depth of explanation 
+- Number of concepts 
+- Number of MCQs 
 
 ---
 
@@ -171,37 +108,11 @@ You can also adjust:
 
 ---
 
-## 🧪 Assessment System
-
-Each generated module includes:
-
-- 5–10 MCQs (adaptive to content size)
-- Automatic score calculation
-- Performance feedback:
-
-80–100% → Excellent understanding  
-60–79% → Good – review recommended  
-Below 60% → Revisit sections  
-
----
-
-## 💡 Ideal Use Cases
-
-- Convert university lectures into structured modules
-- Simplify research papers
-- Build AI-powered study tools
-- Create bilingual learning systems
-- Develop lightweight educational portals
-
----
-
 ## 📜 License
 
-This project is licensed under the Apache License 2.0.
+Licensed under the Apache License 2.0.
 
-You are free to use, modify, distribute, and build upon this project in compliance with the Apache 2.0 license terms.
-
-See the LICENSE file for full details.
+You are free to use, modify, and distribute in compliance with the license.
 
 ---
 
@@ -209,8 +120,8 @@ See the LICENSE file for full details.
 
 If this project helps you:
 
-- Star the repository
-- Share it
-- Contribute improvements
+- Star the repo 
+- Share it 
+- Contribute improvements 
 
-Let’s transform AI into a true teacher.
+Let’s make AI a true teacher.
