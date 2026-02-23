@@ -5,7 +5,7 @@ Created by **Akila Wickramasekara**
 🔗 GitHub: https://github.com/akila-UCD 
 
 
-Enlighten_Me is an AI-powered teaching prompt framework that transforms any document, lecture note, concept, or research paper into a structured, interactive, memory-optimised learning module.
+Enlighten Me is an AI-powered teaching prompt framework that transforms any document, lecture note, concept, or research paper into a structured, interactive, memory-optimised learning module.
 
 It turns passive reading into guided understanding.
 
