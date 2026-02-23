@@ -1,8 +1,8 @@
-# 🌟 Enlighten_Me
+# 🌟 Enlighten Me
 
 Created by **Akila Wickramasekara** 
+
 🔗 GitHub: https://github.com/akila-UCD 
-🔗 LinkedIn: https://www.linkedin.com/in/akila-wickramasekara-a976a918/
 
 
 Enlighten_Me is an AI-powered teaching prompt framework that transforms any document, lecture note, concept, or research paper into a structured, interactive, memory-optimised learning module.
